@@ -1,5 +1,314 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "KIdrOQoKTr8",
+            "name": "Imagination - So Good, So Right (Dim Zach edit) [KIdrOQoKTr8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Imagination - So Good, So Right (Dim Zach edit) [KIdrOQoKTr8].mp4",
+            "size": 27.589869999999998,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Imagination - So Good, So Right (Dim Zach edit) [KIdrOQoKTr8].mp4?raw=true"
+        },
+        {
+            "id": "2pqSKlI3QuU",
+            "name": "Claptone - Dear Life ft. Jaw (FULL EP) ｜ TSTLM [2pqSKlI3QuU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Claptone - Dear Life ft. Jaw (FULL EP) ｜ TSTLM [2pqSKlI3QuU].mp4",
+            "size": 26.710987,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Claptone - Dear Life ft. Jaw (FULL EP) ｜ TSTLM [2pqSKlI3QuU].mp4?raw=true"
+        },
+        {
+            "id": "A5soZOEgsks",
+            "name": "Oscar Alemán - Cariñoso [A5soZOEgsks].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Oscar Alemán - Cariñoso [A5soZOEgsks].mp4",
+            "size": 15.803892999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Oscar Alemán - Cariñoso [A5soZOEgsks].mp4?raw=true"
+        },
+        {
+            "id": "-iVR7WLsvAg",
+            "name": "Street Life - The Crusaders '1979 [-iVR7WLsvAg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Street Life - The Crusaders '1979 [-iVR7WLsvAg].mp4",
+            "size": 5.839814,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Street Life - The Crusaders '1979 [-iVR7WLsvAg].mp4?raw=true"
+        },
+        {
+            "id": "p63SGT2Z1nk",
+            "name": "Hernan Oliva Quinteto - El Paso del Tigre (Álbum completo) [p63SGT2Z1nk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Hernan Oliva Quinteto - El Paso del Tigre (Álbum completo) [p63SGT2Z1nk].mp4",
+            "size": 42.806278,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Hernan Oliva Quinteto - El Paso del Tigre (Álbum completo) [p63SGT2Z1nk].mp4?raw=true"
+        },
+        {
+            "id": "8GDvPXhCZbk",
+            "name": "Don't Throw It All Away [8GDvPXhCZbk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Don't Throw It All Away [8GDvPXhCZbk].mp4",
+            "size": 5.438238,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Don't Throw It All Away [8GDvPXhCZbk].mp4?raw=true"
+        },
+        {
+            "id": "_wQ9mlQ2fVU",
+            "name": "Piano Concerto in D Minor (1812) ： I. Allegro molto agitato [_wQ9mlQ2fVU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Piano Concerto in D Minor (1812) ： I. Allegro molto agitato [_wQ9mlQ2fVU].mp4",
+            "size": 41.401354,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Piano Concerto in D Minor (1812) ： I. Allegro molto agitato [_wQ9mlQ2fVU].mp4?raw=true"
+        },
+        {
+            "id": "nwf3XglwAwY",
+            "name": "Nina Hagen - Go ahead (video) [nwf3XglwAwY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Nina Hagen - Go ahead (video) [nwf3XglwAwY].mp4",
+            "size": 16.899229,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Nina Hagen - Go ahead (video) [nwf3XglwAwY].mp4?raw=true"
+        },
+        {
+            "id": "XpRETAR2sfY",
+            "name": "Hard Times [XpRETAR2sfY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Hard Times [XpRETAR2sfY].mp4",
+            "size": 8.428154,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Hard Times [XpRETAR2sfY].mp4?raw=true"
+        },
+        {
+            "id": "yMZLaEaiwSs",
+            "name": "Monbar, Op. 30, ＂The Filibusters＂： Overture [yMZLaEaiwSs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Monbar, Op. 30, ＂The Filibusters＂： Overture [yMZLaEaiwSs].mp4",
+            "size": 38.139879,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Monbar, Op. 30, ＂The Filibusters＂： Overture [yMZLaEaiwSs].mp4?raw=true"
+        },
+        {
+            "id": "ltkSAkX8_rI",
+            "name": "Halina Mickiewiczówna - Carnival of Venice (Benedict) [ltkSAkX8_rI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Halina Mickiewiczówna - Carnival of Venice (Benedict) [ltkSAkX8_rI].mp4",
+            "size": 12.831424,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Halina Mickiewiczówna - Carnival of Venice (Benedict) [ltkSAkX8_rI].mp4?raw=true"
+        },
+        {
+            "id": "i7XqkCIL6yE",
+            "name": "Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE].mp4",
+            "size": 40.519262,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE].mp4?raw=true"
+        },
+        {
+            "id": "tvuQ94h-HMM",
+            "name": "Liszt： Hungarian Coronation Mass, S.11 - 6. Sanctus [tvuQ94h-HMM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Liszt： Hungarian Coronation Mass, S.11 - 6. Sanctus [tvuQ94h-HMM].mp4",
+            "size": 6.699158,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Liszt： Hungarian Coronation Mass, S.11 - 6. Sanctus [tvuQ94h-HMM].mp4?raw=true"
+        },
+        {
+            "id": "u9Z0kSct8KQ",
+            "name": "Philipp Fahrbach Jr. (1843-94) ： A selection of Waltzes, Marches and Polkas for orchestra (from CPO) [u9Z0kSct8KQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Philipp Fahrbach Jr. (1843-94) ： A selection of Waltzes, Marches and Polkas for orchestra (from CPO) [u9Z0kSct8KQ].mp4",
+            "size": 61.011796,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Philipp Fahrbach Jr. (1843-94) ： A selection of Waltzes, Marches and Polkas for orchestra (from CPO) [u9Z0kSct8KQ].mp4?raw=true"
+        },
+        {
+            "id": "ZC-q5ye9Wmk",
+            "name": "Philipp Fahrbach Jr. - Unsere Frauen, Walzer Op.337 [ZC-q5ye9Wmk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Philipp Fahrbach Jr. - Unsere Frauen, Walzer Op.337 [ZC-q5ye9Wmk].mp4",
+            "size": 50.341021,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Philipp Fahrbach Jr. - Unsere Frauen, Walzer Op.337 [ZC-q5ye9Wmk].mp4?raw=true"
+        },
+        {
+            "id": "FcSyyNyyeFk",
+            "name": "Liszt： Über allen Gipfeln, S.306 [FcSyyNyyeFk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Liszt： Über allen Gipfeln, S.306 [FcSyyNyyeFk].mp4",
+            "size": 8.226288,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Liszt： Über allen Gipfeln, S.306 [FcSyyNyyeFk].mp4?raw=true"
+        },
+        {
+            "id": "tyRVj3VRahc",
+            "name": "The Planets, Op. 32： IV. Jupiter, the Bringer of Jollity [tyRVj3VRahc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/The Planets, Op. 32： IV. Jupiter, the Bringer of Jollity [tyRVj3VRahc].mp4",
+            "size": 15.952822999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/The Planets, Op. 32： IV. Jupiter, the Bringer of Jollity [tyRVj3VRahc].mp4?raw=true"
+        },
+        {
+            "id": "Um8lgKkWReo",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - No. 7, Trio. Cosa sento! tosto andate [Um8lgKkWReo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 7, Trio. Cosa sento! tosto andate [Um8lgKkWReo].mp4",
+            "size": 14.246604999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 7, Trio. Cosa sento! tosto andate [Um8lgKkWReo].mp4?raw=true"
+        },
+        {
+            "id": "jkDDnpMRe90",
+            "name": "Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Flocons animés [jkDDnpMRe90].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Flocons animés [jkDDnpMRe90].mp4",
+            "size": 2.9889769999999998,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Flocons animés [jkDDnpMRe90].mp4?raw=true"
+        },
+        {
+            "id": "GXghR4XH7Mg",
+            "name": "Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Hirondelles bleues [GXghR4XH7Mg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Hirondelles bleues [GXghR4XH7Mg].mp4",
+            "size": 2.3988009999999997,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Les Hirondelles bleues [GXghR4XH7Mg].mp4?raw=true"
+        },
+        {
+            "id": "KInLwx_fNOc",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Appendix - Al desio di chi t'adora, K. 577 (Replacement... [KInLwx_fNOc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Mozart： Le nozze di Figaro, K. 492, Appendix - Al desio di chi t'adora, K. 577 (Replacement... [KInLwx_fNOc].mp4",
+            "size": 18.051361999999997,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Appendix - Al desio di chi t'adora, K. 577 (Replacement... [KInLwx_fNOc].mp4?raw=true"
+        },
+        {
+            "id": "0HBRSonITL8",
+            "name": "Piano Concerto No. 3 in D Minor, Op. 30： II. Intermezzo - Adagio [0HBRSonITL8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Piano Concerto No. 3 in D Minor, Op. 30： II. Intermezzo - Adagio [0HBRSonITL8].mp4",
+            "size": 23.800594,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Piano Concerto No. 3 in D Minor, Op. 30： II. Intermezzo - Adagio [0HBRSonITL8].mp4?raw=true"
+        },
+        {
+            "id": "VTs0Dw81Fbo",
+            "name": "Offenbach： Le Fées du Rhin - Ballet [VTs0Dw81Fbo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Offenbach： Le Fées du Rhin - Ballet [VTs0Dw81Fbo].mp4",
+            "size": 5.239561999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Offenbach： Le Fées du Rhin - Ballet [VTs0Dw81Fbo].mp4?raw=true"
+        },
+        {
+            "id": "z479vnQxq8o",
+            "name": "You Ought to See Sally on Sunday [z479vnQxq8o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/You Ought to See Sally on Sunday [z479vnQxq8o].mp4",
+            "size": 10.064755,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/You Ought to See Sally on Sunday [z479vnQxq8o].mp4?raw=true"
+        },
+        {
+            "id": "PsP-DTWmTjg",
+            "name": "Che Pykasumi - LITO ORTIZ [PsP-DTWmTjg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Che Pykasumi - LITO ORTIZ [PsP-DTWmTjg].mp4",
+            "size": 5.403134,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Che Pykasumi - LITO ORTIZ [PsP-DTWmTjg].mp4?raw=true"
+        },
+        {
+            "id": "wvfZWAZ2RhY",
+            "name": "Río de los Pájaros [wvfZWAZ2RhY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Río de los Pájaros [wvfZWAZ2RhY].mp4",
+            "size": 7.243821,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Río de los Pájaros [wvfZWAZ2RhY].mp4?raw=true"
+        },
+        {
+            "id": "iEtJRnmoD0w",
+            "name": "Liszt： Le Vieux Vagabond S.304 [iEtJRnmoD0w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Liszt： Le Vieux Vagabond S.304 [iEtJRnmoD0w].mp4",
+            "size": 14.413271,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Liszt： Le Vieux Vagabond S.304 [iEtJRnmoD0w].mp4?raw=true"
+        },
+        {
+            "id": "RQ_9LDeP3Ss",
+            "name": "Liszt： Die Legende von der Heiligen Elisabeth ⧸ 2. Landgraf Ludwig - Ein Wunder! Ja, ich will... [RQ_9LDeP3Ss].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Liszt： Die Legende von der Heiligen Elisabeth ⧸ 2. Landgraf Ludwig - Ein Wunder! Ja, ich will... [RQ_9LDeP3Ss].mp4",
+            "size": 22.842522,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Liszt： Die Legende von der Heiligen Elisabeth ⧸ 2. Landgraf Ludwig - Ein Wunder! Ja, ich will... [RQ_9LDeP3Ss].mp4?raw=true"
+        },
+        {
+            "id": "aYlH1L9Tk60",
+            "name": "How Long [aYlH1L9Tk60].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/How Long [aYlH1L9Tk60].mp4",
+            "size": 6.442405,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/How Long [aYlH1L9Tk60].mp4?raw=true"
+        },
+        {
+            "id": "G7J0SvmhScM",
+            "name": "Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM].mp4",
+            "size": 80.129761,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM].mp4?raw=true"
+        },
+        {
+            "id": "_fIaoLFe9zE",
+            "name": "Piramo e Tisbe： Recitative： Piramo, Ah! dove sei？ (Tisbe, Piramo) [_fIaoLFe9zE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Piramo e Tisbe： Recitative： Piramo, Ah! dove sei？ (Tisbe, Piramo) [_fIaoLFe9zE].mp4",
+            "size": 3.187884,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Piramo e Tisbe： Recitative： Piramo, Ah! dove sei？ (Tisbe, Piramo) [_fIaoLFe9zE].mp4?raw=true"
+        },
+        {
+            "id": "gEIrfX5vMqw",
+            "name": "Oh, Lady, Be Good! (Alternative Take 1) [gEIrfX5vMqw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Oh, Lady, Be Good! (Alternative Take 1) [gEIrfX5vMqw].mp4",
+            "size": 14.108357999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Oh, Lady, Be Good! (Alternative Take 1) [gEIrfX5vMqw].mp4?raw=true"
+        },
+        {
+            "id": "5GLm9lKZpx0",
+            "name": "J-P.Rameau： Suite from 'Le Temple de la Gloire', Opéra-ballet RTC 59 [5GLm9lKZpx0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/J-P.Rameau： Suite from 'Le Temple de la Gloire', Opéra-ballet RTC 59 [5GLm9lKZpx0].mp4",
+            "size": 82.23071399999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/J-P.Rameau： Suite from 'Le Temple de la Gloire', Opéra-ballet RTC 59 [5GLm9lKZpx0].mp4?raw=true"
+        },
+        {
+            "id": "29ii7Nd8QeQ",
+            "name": "Francesco Molino： Guitar Concerto in E minor, Op.56, Pepe Romero (guitar) [29ii7Nd8QeQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Francesco Molino： Guitar Concerto in E minor, Op.56, Pepe Romero (guitar) [29ii7Nd8QeQ].mp4",
+            "size": 16.211745,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Francesco Molino： Guitar Concerto in E minor, Op.56, Pepe Romero (guitar) [29ii7Nd8QeQ].mp4?raw=true"
+        },
+        {
+            "id": "0NfQmoouvTY",
+            "name": "I Know You Know [0NfQmoouvTY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/I Know You Know [0NfQmoouvTY].mp4",
+            "size": 5.81725,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/I Know You Know [0NfQmoouvTY].mp4?raw=true"
+        },
+        {
+            "id": "OCnReioFs8k",
+            "name": "A La Antigua (Remastered) [OCnReioFs8k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/A La Antigua (Remastered) [OCnReioFs8k].mp4",
+            "size": 6.137785,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/A La Antigua (Remastered) [OCnReioFs8k].mp4?raw=true"
+        },
+        {
+            "id": "lTpUJxXPhnI",
+            "name": "Liszt - Rondo Fantastique ＂El Contrabandista＂ Valentina Lisitsa [lTpUJxXPhnI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Liszt - Rondo Fantastique ＂El Contrabandista＂ Valentina Lisitsa [lTpUJxXPhnI].mp4",
+            "size": 25.981113999999998,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Liszt - Rondo Fantastique ＂El Contrabandista＂ Valentina Lisitsa [lTpUJxXPhnI].mp4?raw=true"
+        },
+        {
+            "id": "e6F24wA7HAw",
+            "name": "Chick Webb & His Orch. - Poor Little Rich Girl [May 4, 1939] [e6F24wA7HAw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Chick Webb & His Orch. - Poor Little Rich Girl [May 4, 1939] [e6F24wA7HAw].mp4",
+            "size": 19.343757,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Chick Webb & His Orch. - Poor Little Rich Girl [May 4, 1939] [e6F24wA7HAw].mp4?raw=true"
+        },
+        {
+            "id": "_zpUZ_PoCJM",
+            "name": "Etienne Ozi (1754-1813) - Cinquième Concerto pour le basson (1800) [_zpUZ_PoCJM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Etienne Ozi (1754-1813) - Cinquième Concerto pour le basson (1800) [_zpUZ_PoCJM].mp4",
+            "size": 68.247619,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Etienne Ozi (1754-1813) - Cinquième Concerto pour le basson (1800) [_zpUZ_PoCJM].mp4?raw=true"
+        },
+        {
+            "id": "b44-5M4e9nI",
+            "name": "Saint-Saens ： The Swan ( Le Cygne )  - Carnival of the Animals [b44-5M4e9nI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Saint-Saens ： The Swan ( Le Cygne )  - Carnival of the Animals [b44-5M4e9nI].mp4",
+            "size": 3.5501199999999997,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Saint-Saens ： The Swan ( Le Cygne )  - Carnival of the Animals [b44-5M4e9nI].mp4?raw=true"
+        },
+        {
+            "id": "JSkcTK5Zh6c",
+            "name": "Royalty into Exile [JSkcTK5Zh6c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Royalty into Exile [JSkcTK5Zh6c].mp4",
+            "size": 10.275917999999999,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Royalty into Exile [JSkcTK5Zh6c].mp4?raw=true"
+        },
+        {
+            "id": "IGpAQng_7ao",
+            "name": "Roaring 1920s： Nat Shilkret & Henry Burr - Why Should I Say That I'm Sorry,1926 [IGpAQng_7ao].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Roaring 1920s： Nat Shilkret & Henry Burr - Why Should I Say That I'm Sorry,1926 [IGpAQng_7ao].mp4",
+            "size": 13.658543,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Roaring 1920s： Nat Shilkret & Henry Burr - Why Should I Say That I'm Sorry,1926 [IGpAQng_7ao].mp4?raw=true"
+        },
+        {
+            "id": "mFEaRqkIWQI",
+            "name": "Bidin' My Time [mFEaRqkIWQI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Bidin' My Time [mFEaRqkIWQI].mp4",
+            "size": 9.038051,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Bidin' My Time [mFEaRqkIWQI].mp4?raw=true"
+        },
+        {
+            "id": "Z42epfm_9Ig",
+            "name": "Mighty Sparrow - Only a fool [Z42epfm_9Ig].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o4/videos/Mighty Sparrow - Only a fool [Z42epfm_9Ig].mp4",
+            "size": 7.375134,
+            "url": "https://github.com/circuitalmynds/music_o4/blob/main/videos/Mighty Sparrow - Only a fool [Z42epfm_9Ig].mp4?raw=true"
+        }
+    ],
+    "total_size": 923.0690300000001
 }
